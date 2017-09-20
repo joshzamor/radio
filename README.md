@@ -1,7 +1,10 @@
 # radio
 Links - randomly currated
 
-## Digital
+## General
+- [RepeaterBook](https://repeaterbook.com)
+
+## Digital - Packet
 - [Ubiquiti](https://www.ubnt.com/): Company selling WiFI (not ham radio) equipment for long range links
   and mesh networking.
 - [HamWan](https://hamwan.org/): Pugent Sound Data Ring
