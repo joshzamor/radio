@@ -2,6 +2,7 @@
 Links - randomly currated
 
 ## General
+- [Antenna Theory](http://www.antenna-theory.com/): Bunch of information on antennas.
 - [RepeaterBook](https://repeaterbook.com): Online listing of repeaters
 
 ## Digital - Packet
