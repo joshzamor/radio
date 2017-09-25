@@ -39,3 +39,4 @@ Cheap radios which people have made work for cheap packet communications.
   detect when a transmission is being received.
 - [Baofeng Packet blog](https://illruminations.com/2014/01/15/baofeng-packet-radio-adventures/): more on packet radio and 
   baofengs.
+- [Baofeng hacks](https://w7apk.com/): More info on using Baofengs for packet.
