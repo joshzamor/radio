@@ -9,7 +9,6 @@ Links - randomly currated
   and mesh networking.
 - [HamWan](https://hamwan.org/): Pugent Sound Data Ring
 - [aprs](http://aprs.fi): Packet network for reporting position and small messages
-- [Direwolf](https://github.com/wb2osz/direwolf): Open source TNC software
 
 ## Orgs
 - [ARRL](http://arrl.org): US org Amateur Radio Relay League
@@ -20,6 +19,9 @@ Links - randomly currated
 - [RTL-SDR](https://www.rtl-sdr.com/):  Software Defined Radio (SDR)
 
 ## Software
-- [GNURadio](https://www.gnuradio.org/): SDK (Software Development Kit) for SDR
-- [CHIRP](http://chirp.danplanet.com/projects/chirp/wiki/Home): Open source software for programming 
-  (frequencys and the like by location) radios
+- [CHIRP](http://chirp.danplanet.com/projects/chirp/wiki/Home): Open source software for programming.
+  (frequencys and the like by location) radios.
+- [Dire Wolf](https://github.com/wb2osz/direwolf) Software "soundcard" modem/TNC for AX.25 encoding/decoding.
+  Popular software to use in conjunction with a Raspberry Pi, soundcard, and radio for a software based TNC setup.
+  [Example](https://github.com/wb2osz/direwolf/blob/master/doc/Raspberry-Pi-APRS.pdf) for that rig included.
+- [GNURadio](https://www.gnuradio.org/): SDK (Software Development Kit) for SDR.
