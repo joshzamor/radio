@@ -27,3 +27,8 @@ Links - randomly currated
   Popular software to use in conjunction with a Raspberry Pi, soundcard, and radio for a software based TNC setup.
   [Example](https://github.com/wb2osz/direwolf/blob/master/doc/Raspberry-Pi-APRS.pdf) for that rig included.
 - [GNURadio](https://www.gnuradio.org/): SDK (Software Development Kit) for SDR.
+
+## Protocols & Formats
+- [AX.25](https://en.wikipedia.org/wiki/AX.25): Wiki entry on the AX.25 protocol at the heart of many packet radio
+  communications.
+- [Codec 2](http://www.rowetel.com/?page_id=452): Codec for quality voice audio over low baud.
