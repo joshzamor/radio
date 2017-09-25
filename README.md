@@ -32,3 +32,10 @@ Links - randomly currated
 - [AX.25](https://en.wikipedia.org/wiki/AX.25): Wiki entry on the AX.25 protocol at the heart of many packet radio
   communications.
 - [Codec 2](http://www.rowetel.com/?page_id=452): Codec for quality voice audio over low baud.
+
+## Baofeng
+Cheap radios which people have made work for cheap packet communications.
+- [Baofeng Carrier Detect](http://larr-project.blogspot.com/2014/01/elegant-solution-for-carrier-detect-in.html): To better
+  detect when a transmission is being received.
+- [Baofeng Packet blog](https://illruminations.com/2014/01/15/baofeng-packet-radio-adventures/): more on packet radio and 
+  baofengs.
