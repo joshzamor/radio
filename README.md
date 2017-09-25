@@ -10,6 +10,7 @@ Links - randomly currated
   and mesh networking.
 - [HamWan](https://hamwan.org/): Pugent Sound Data Ring
 - [aprs](http://aprs.fi): Packet network for reporting position and small messages
+- [TNC-x](http://tnc-x.com/): TNC in a box and for RaspberryPi
 
 ## Orgs
 - [ARRL](http://arrl.org): US org Amateur Radio Relay League
