@@ -19,6 +19,7 @@ Links - randomly currated
 ## SDR
 - [OpenWebRX](SDR.hu): Open source web spectrum analysis
 - [RTL-SDR](https://www.rtl-sdr.com/):  Software Defined Radio (SDR)
+- [WebSDR](http://websdr.org): Web-based SDR broadcasts
 
 ## Software
 - [CHIRP](http://chirp.danplanet.com/projects/chirp/wiki/Home): Open source software for programming.
