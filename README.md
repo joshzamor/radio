@@ -1,11 +1,17 @@
 # radio
-Links - randomly currated
+Currated Links, a work in progress
 
 ## General
 - [Antenna Theory](http://www.antenna-theory.com/): Bunch of information on antennas.
 - [RepeaterBook](https://repeaterbook.com): Online listing of repeaters
 
 ## Digital - Packet
+Packet transmissions generally require a transciver (or just resceiver if skipping sending), a computer,
+a Terminal Node Controller (TNC) for converting to/from serial for the computer and analog for the transciever.
+More recently software and faster computers have made it possible to replace the TNC with an adequate sound card
+and the right software, saving on the cost/bulk of the TNC and associated cabling.  Software TNC running on a
+Raspberry Pi appears to be a good fit.
+
 - [Ubiquiti](https://www.ubnt.com/): Company selling WiFI (not ham radio) equipment for long range links
   and mesh networking.
 - [HamWan](https://hamwan.org/): Pugent Sound Data Ring
