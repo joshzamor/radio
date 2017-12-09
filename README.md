@@ -18,6 +18,13 @@ Raspberry Pi appears to be a good fit.
 - [aprs](http://aprs.fi): Packet network for reporting position and small messages
 - [TNC-x](http://tnc-x.com/): TNC in a box and for RaspberryPi
 
+## Outernet
+Digital data streaming from satelites.
+- [Outernet](http://outernet.is/): project site and store
+- [Lighthouse article at RTLSDR](https://www.rtl-sdr.com/outernet-lighthouse-receiver-now-for-sale/): On Outernet and the Lighthouse
+- [Lantern Indegogo](https://www.indiegogo.com/projects/lantern-a-global-satellite-data-radio#/): Project description
+- [Malawi National Library Install](https://youtu.be/RhTdkI9yXXA):  Video of installation
+
 ## Orgs
 - [ARRL](http://arrl.org): US org Amateur Radio Relay League
 - [RACES](http://www.usraces.org/): US emergency civil radio group
